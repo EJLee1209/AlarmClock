@@ -24,8 +24,7 @@
 지정된 시간 이후에는 매일 같은 시간에 반복되게 알람이 울리게 할 수 있음
 
 # ✅ 완성 화면
-![](https://velog.velcdn.com/images/dldmswo1209/post/314988b1-c50b-4150-97f3-34d4a02a6233/image.png)
-
+<img src = "https://velog.velcdn.com/images/dldmswo1209/post/314988b1-c50b-4150-97f3-34d4a02a6233/image.png" width="50%" height="50%"/>
 
 ### 📌 AlarmDisplayModel.kt(data class)
 ```
